@@ -13,7 +13,9 @@ yarn add -d eslint
 Then install `eslint-plugin-sort-exports`
 
 ```
-yarn add --dev eslint-plugin-sort-exports
+yarn add --dev https://github.com/FxxxdChicken/eslint-plugin-sort-exports
+// or
+npm i -D https://github.com/FxxxdChicken/eslint-plugin-sort-exports
 ```
 
 **Note:** If you installed ESLint globally, you must also install `eslint-plugin-sort-exports` globally.
